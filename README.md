@@ -1,6 +1,6 @@
 
 # Robo-friends🤖
-A single page application where the user can search for robot friends Among all. 🗽🤖
+A single page application where the user can search for robot friends Among All. 🗽🤖
 
 <table>
 	<tr>
