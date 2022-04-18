@@ -31,7 +31,7 @@ Some of the standout features of the project are
 ## Technology Used :
 - [ReactJS](https://reactjs.org/) : - React makes it painless to create interactive UIs. Design simple views for each state in application, and React will efficiently update and render just the right components when data changes.
 
-- [Tachyons](https://tachyons.io/) :- Tachyons css toolkit used for styling the components.
+- [Tachyons](https://tachyons.io/) :- Tachyons Css toolkit used for styling the components.
   
 - [RoboHash](https://robohash.org/) :- Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/
   whatever images for any text. Put in any text, such as IP address, email, filename, userid, or whatever else we like, and get
