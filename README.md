@@ -46,4 +46,4 @@ To run this project :
 6. open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Deployed Version (Feel free to visit) 👇
-https://robo-friendsm90.netlify.app/
+https://robo-friendsm90.netlify.app
